@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="example_5-star_grayscale" size="5.000000 3.500000" />
+    <ImageTarget name="stena-5-1000x560" size="5.000000 2.800000" />
+  </Tracking>
+</QCARConfig>
